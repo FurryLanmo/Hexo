@@ -1,7 +1,7 @@
 - class_name: 友情链接
-  class_desc: 那些人，那些事
+  class_desc: 
   link_list:
     - name: FurLibrary社区论坛
       link: https://www.furlary.com/
       avatar: https://www.furlary.com/data/assets/logo/Logo123.png
-      descr: 
+      descr: 兽圈论坛
